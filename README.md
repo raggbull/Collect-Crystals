@@ -1,5 +1,4 @@
 # Crystal-Collector
-
  
 * You will be given a random number at the start of the game.
 * There are four crystals below. By clicking on a crystal you will add a specific amount of points to your total score.
@@ -35,3 +34,4 @@
 # **Game Design Notes**
 * The random number shown at the start of the game should be between 19 - 120.
 * Each crystal should have a random hidden value between 1 - 12.
+
